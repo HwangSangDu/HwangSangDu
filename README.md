@@ -34,7 +34,6 @@
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Cent OS](https://img.shields.io/badge/Cent%20OS-002260?style=flat&logo=centos&logoColor=#262577)
 ![Kail OS](https://img.shields.io/badge/KaiOS-002260?style=flat&logo=kaioS&logoColor=#6F02B5)
 
 
