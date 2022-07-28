@@ -3,9 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamho1104&count_bg=%233D9CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ## 📃My Jobs
-
 - STATIC Analysis Developer
 
+## 📘My Resume
+- [Notion Link](https://bittersweet-sled-9dc.notion.site/0eed8cb4a79f46fdb656646d82b69e59)  
 
 ## 💪 Technical Skills
 ### Languages & Frameworks
@@ -36,7 +37,7 @@
 
 
 ## Resume
-작성중
+https://bittersweet-sled-9dc.notion.site/0eed8cb4a79f46fdb656646d82b69e59
 
 
 ## SNS & Blog
