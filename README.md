@@ -35,7 +35,11 @@
 ![Kail OS](https://img.shields.io/badge/KaiOS-002260?style=flat&logo=kaioS&logoColor=#6F02B5)
 
 
-### SNS & Blog
+## Resume
+작성중
+
+
+## SNS & Blog
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sdhwang/)
 [![Tistory](https://img.shields.io/badge/Tistory-%808080.svg?style=flat&logo=tistory&logoColor=white)](https://sharp-include.tistory.com/)
 
