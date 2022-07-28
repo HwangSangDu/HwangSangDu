@@ -36,10 +36,6 @@
 ![Kail OS](https://img.shields.io/badge/KaiOS-002260?style=flat&logo=kaioS&logoColor=#6F02B5)
 
 
-## Resume
-https://bittersweet-sled-9dc.notion.site/0eed8cb4a79f46fdb656646d82b69e59
-
-
 ## SNS & Blog
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sdhwang/)
 [![Tistory](https://img.shields.io/badge/Tistory-%808080.svg?style=flat&logo=tistory&logoColor=white)](https://sharp-include.tistory.com/)
