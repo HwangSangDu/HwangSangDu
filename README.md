@@ -37,5 +37,5 @@
 
 ### SNS & Blog
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sdhwang/)
-[![Tistory](https://img.shields.io/badge/Tistory-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://sharp-include.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-%808080.svg?style=flat&logo=tistory&logoColor=white)](https://sharp-include.tistory.com/)
 
