@@ -1,3 +1,4 @@
+
 # 💻 SangDu Hwang
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamho1104&count_bg=%233D9CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
@@ -20,7 +21,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![NotePad++](https://img.shields.io/badge/NotePad++-141?style=flat&logo=notepadplusplus&color=green&&labelColor=4c4c4c)
+![NotePad++](https://img.shields.io/badge/NotePad++-141?style=flat&logo=notepadplusplus&color=green&&labelColor=1A1A10)
+![Vim](https://img.shields.io/badge/vim-141?style=flat&logo=vim)
 
 
 ### Tools
