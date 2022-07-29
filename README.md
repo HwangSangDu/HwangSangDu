@@ -32,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-230?style=flat&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-230?style=flat&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/Jenkins-230?style=flat&logo=jenkins&logoColor=white)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
