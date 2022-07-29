@@ -16,6 +16,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Springboot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+
     
 ### IDE(s)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
@@ -28,6 +32,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-230?style=flat&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-230?style=flat&logo=jenkins)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
