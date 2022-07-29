@@ -38,8 +38,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Kail OS](https://img.shields.io/badge/KaiOS-002260?style=flat&logo=kaioS&logoColor=#6F02B5)
+![Mac OS](https://img.shields.io/badge/MacOS-002260?style=flat&logo=macos)
 
-## SNS & Blog
-[![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sdhwang/)
+## Blog
 [![Tistory](https://img.shields.io/badge/Tistory-%808080.svg?style=flat&logo=tistory&logoColor=white)](https://sharp-include.tistory.com/)
 
