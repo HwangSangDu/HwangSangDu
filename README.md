@@ -29,7 +29,7 @@
 
 ### Tools
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-230?style=flat&logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/Jenkins-230?style=flat&logo=jenkins&logoColor=white)
